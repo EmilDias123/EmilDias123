@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Привет! Я EmilDias123
 
-<!--
-**EmilDias123/EmilDias123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java-разработчик и просто человек, который кайфует от кода.
 
-Here are some ideas to get you started:
+- 🔨 Создаю консольные приложения, веб-сервисы и учусь писать чисто
+- 🌱 Сейчас изучаю Spring, REST API, многопоточность
+- 🧠 Люблю автоматизировать всё, что можно
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои проекты
+
+- [📝 TODO CLI (Java)](https://github.com/EmilDias123/todo-java-console) — консольное приложение с JSON-хранилищем
+- [📦 Будущие проекты...](#)
+
+## 📫 Контакты
+
+- Email: `ceredinovy@gmail.com`
+- Telegram: [@emil1354](https://t.me/emil1354)
+
+
+---
+
+## ⚡ Немного о технологиях
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat&logo=intellij-idea&logoColor=white)
+
+---
+
+⭐️ Спасибо, что заглянул на профиль!
