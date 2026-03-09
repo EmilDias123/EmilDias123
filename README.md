@@ -10,8 +10,9 @@
 
 | Проект | Описание |
 |--------|----------|
-| [📝 todo-java-console](https://github.com/EmilDias123/todo-java-console) | Консольный планировщик задач с сохранением в JSON |
-[📝 bookapi](https://github.com/EmilDias123/bookapi) |  RESTful API для управления библиотекой книг Spring |
+| 🧠 [search-algorithms](https://github.com/EmilDias123/search-algorithms) | Исследование алгоритмов поиска (Луч, Глубина, Ширина, Параллельный) с анализом математического ожидания и стандартного отклонения |
+| 📝 [todo-java-console](https://github.com/EmilDias123/todo-java-console) | Консольный планировщик задач с сохранением в JSON |
+| 📚 [bookapi](https://github.com/EmilDias123/bookapi) | RESTful API для управления библиотекой книг (Spring Boot) |
 | 🔧 **ещё в разработке...** | скоро тут будет что-то классное |
 
 ---
